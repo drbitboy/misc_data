@@ -4,7 +4,7 @@
 ## 1) Put IP address of PLC into [Local Intranet] Zone
 ![](https://github.com/drbitboy/misc_data/raw/master/images/micrologix_1100_web_server_access/local_intranet_site.png)
 
-## 2) Allow [Local Intranet] Zone to use Tabular Data Control (TDC)
+## 2) Allow [Local Intranet] Zone to use Tabular Data Control (TDC); see item 2.1 below also.
 ![](https://github.com/drbitboy/misc_data/raw/master/images/micrologix_1100_web_server_access/local_intranet_allow_tdc.png)
 
 ## 2.1) All ActiveX settings in that dialog are [Enabled] up to and including the TDC-specific radio buttons, except for the following
