@@ -7,7 +7,7 @@
 ## 2) Allow [Local Intranet] Zone to use Tabular Data Control (TDC)
 ![](https://github.com/drbitboy/misc_data/raw/master/images/micrologix_1100_web_server_access/local_intranet_allow_tdc.png)
 
-## 2.1) All ActiveX settings in that dialog are [Enabled] up to and includingthe TDC-specific radio buttons, except for the following
+## 2.1) All ActiveX settings in that dialog are [Enabled] up to and including the TDC-specific radio buttons, except for the following
     [High Safety] Permissions for components with manifests
     [Disable] Allow ActiveX Filtering
     ]Disable] Automatic prompting for ActiveX controls
